@@ -1,0 +1,7 @@
+git+https://github.com/lyst/lightfm.git
+pymongo
+requests
+pickles
+pandas
+flask
+dotenv
